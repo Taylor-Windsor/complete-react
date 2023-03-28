@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"title","image":"https://www.google.com/search?q=kent+maryland&rlz=1C1ONGR_enUS1004US1004&sxsrf=APwXEddaWeMOcuUiYZ65VGaFB8bQMG7_aA:1680018636891&tbm=isch&source=iu&ictx=1&vet=1&fir=vQ85UfqqKNtXLM%252CPpKPwcT9ji36gM%252C%252Fm%252F05v3n8&usg=AI4_-kT_z_VghqMEAwnOWHig6gxsgWX8gw&sa=X&ved=2ahUKEwiKn8WQ_f79AhUFkokEHe3HDnoQ_B16BAhfEAE#imgrc=vQ85UfqqKNtXLM","date":"2023-03-30","description":"sdsdf","id":"f307c5f5-ad61-41d3-b184-8e30dc09d7c8"},{"title":"A changed title","image":"https://www.google.com/search?q=kent+maryland&rlz=1C1ONGR_enUS1004US1004&sxsrf=APwXEddaWeMOcuUiYZ65VGaFB8bQMG7_aA:1680018636891&tbm=isch&source=iu&ictx=1&vet=1&fir=vQ85UfqqKNtXLM%252CPpKPwcT9ji36gM%252C%252Fm%252F05v3n8&usg=AI4_-kT_z_VghqMEAwnOWHig6gxsgWX8gw&sa=X&ved=2ahUKEwiKn8WQ_f79AhUFkokEHe3HDnoQ_B16BAhfEAE#imgrc=vQ85UfqqKNtXLM","date":"2023-03-29","description":"a desciption","id":"67145e5a-bbec-46cf-95df-3e1e004e4421"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
