@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"New event","image":"https://www.google.com/search?q=kent+maryland&rlz=1C1ONGR_enUS1004US1004&sxsrf=APwXEddaWeMOcuUiYZ65VGaFB8bQMG7_aA:1680018636891&tbm=isch&source=iu&ictx=1&vet=1&fir=vQ85UfqqKNtXLM%252CPpKPwcT9ji36gM%252C%252Fm%252F05v3n8&usg=AI4_-kT_z_VghqMEAwnOWHig6gxsgWX8gw&sa=X&ved=2ahUKEwiKn8WQ_f79AhUFkokEHe3HDnoQ_B16BAhfEAE#imgrc=vQ85UfqqKNtXLM","date":"2023-03-31","description":"sdfsadf","id":"dd64cc5d-1a26-4ca9-9969-e668263256de"}],"users":[{"email":"wtaylor75@gatech.edu","password":"$2a$12$xQ/W5C0Nv7M/q0mx9jiOx.KC4teUoyTjzN0Mq64mrOi7GjfmdqGH.","id":"925d2ef1-09d5-4e91-b68e-68033dcbfe90"}]}
